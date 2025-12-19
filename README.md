@@ -23,6 +23,15 @@
 
 ---
 
+### 📂 Featured Projects (TripleTen Bootcamp)
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Urban Routes** | **Automated UI Testing.** Pruebas de regresión y automatización de procesos de reserva de transporte, validando la lógica del frontend. | `Python`, `Selenium`, `Pytest` | [Repo 🔗](https://github.com/luiselizondotech-dotcom/qa-project-Urban-Routes-es) |
+| **Urban Grocers** | **API Testing & Documentation.** Pruebas de integración para servicios de pedidos de abarrotes, validando endpoints, esquemas JSON y códigos de respuesta. | `Postman`, `JavaScript`, `Rest-Assured` | [Repo 🔗](https://github.com/luiselizondotech-dotcom/qa-project-Urban-Grocers-app-es) |
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
