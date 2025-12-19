@@ -2,7 +2,7 @@
 <h3 align="center">A passionate QA Engineer from México.</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Luis QA Banner" width="100%" />
+  <img src="https://img.shields.io/badge/QA_ENGINEER-PROJECTS_&_TESTING-blue?style=for-the-badge&logo=github&logoColor=white" alt="QA Banner" />
 </p>
 
 <p align="center"> 
@@ -29,11 +29,13 @@
   <img src="https://skillicons.dev/icons?i=python,js,postgres,postman,selenium,git,androidstudio&perline=7" />
 </p>
 
-### 📈 GitHub Stats
+---
+
+### 📈 GitHub Activities
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiselizondotech-dotcom&show_icons=true&locale=en&layout=compact&theme=flat" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luiselizondotech-dotcom&show_icons=true&locale=en&theme=flat" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiselizondotech-dotcom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiselizondotech-dotcom&layout=compact&theme=transparent" />
 </p>
 
 ---
