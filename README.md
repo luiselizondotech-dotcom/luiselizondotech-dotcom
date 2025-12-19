@@ -2,48 +2,48 @@
 <h3 align="center">A passionate QA Engineer from México.</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=QA%20Engineer%20&fontSize=70&animation=fadeIn&fontAlignY=38" alt="QA Banner" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Luis QA Banner" width="100%" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiselizondotech-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="luiselizondotech-dotcom" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=luiselizondotech-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> 
+</p>
 
-- 🔭 I’m currently working on **Enhancing my portfolio with automated testing scripts and refining my personal projects.**
+---
 
-- 🌱 I’m currently learning **Performance testing tools and deepening my knowledge in JavaScript/Python.**
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Open-source projects where I can contribute as a QA / Tester or Junior Developer.**
+- 🔭 I’m currently working on **Enhancing my portfolio with automated testing scripts.**
+- 🌱 I’m currently learning **Performance testing tools & JavaScript/Python.**
+- 👯 I’m looking to collaborate on **Open-source projects as a Junior QA Engineer.**
+- 🤝 I’m looking for help with **Mastering Playwright and Cypress.**
+- 💬 Ask me about **Software testing basics or my bootcamp journey.**
+- 📫 How to reach me **luis.elizondotech@gmail.com**
+- ⚡ Fun fact **I believe I am an excellent musician! 🎸**
 
-- 🤝 I’m looking for help with **Mastering advanced automation frameworks like Playwright or Cypress.**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/luiselizondotech-dotcom](https://github.com/luiselizondotech-dotcom)
+### 🛠️ Languages and Tools
 
-- 📝 I regularly write articles on **My learning journey and QA best practices (in progress).**
-
-- 💬 Ask me about **Software testing basics, my bootcamp journey, or how I approach bug hunting.**
-
-- 📫 How to reach me **Through my LinkedIn profile (link below) or via email luis.elizondotech@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/qa-engineer-elizondo-luis/](https://www.linkedin.com/in/qa-engineer-elizondo-luis/)
-
-- ⚡ Fun fact **I believe I am an excellent musician hehehe.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/qa-engineer-elizondo-luis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://discord.gg/luis.elizondotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,js,postgres,postman,selenium,git,androidstudio&perline=7" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/> </a> 
-</p>
+### 📈 GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiselizondotech-dotcom&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiselizondotech-dotcom" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiselizondotech-dotcom&show_icons=true&locale=en&theme=radical" alt="luiselizondotech-dotcom" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiselizondotech-dotcom&show_icons=true&locale=en&layout=compact&theme=flat" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luiselizondotech-dotcom&show_icons=true&locale=en&theme=flat" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/qa-engineer-elizondo-luis/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://discord.gg/luis.elizondotech" target="blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 </p>
