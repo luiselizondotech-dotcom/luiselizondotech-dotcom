@@ -45,8 +45,11 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiselizondotech-dotcom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiselizondotech-dotcom&layout=compact&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luiselizondotech-dotcom&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiselizondotech-dotcom&theme=transparent" alt="GitHub Summary" />
 </p>
 
 ---
