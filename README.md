@@ -31,6 +31,7 @@
 | **Manual Testing Portfolio** | Professional test cases, bug reports, SQL validation queries and exploratory testing notes | `Markdown` `SQL` | [Repo 🔗](https://github.com/luiselizondotech-dotcom/manual-testing-portfolio) |
 | **Urban Routes** | Regression and UI automation for a transport booking app | `Python` `Selenium` `Pytest` | [Repo 🔗](https://github.com/luiselizondotech-dotcom/qa-project-Urban-Routes-es) |
 | **Urban Grocers** | API integration testing — endpoints, JSON schemas and response codes | `Postman` `JavaScript` | [Repo 🔗](https://github.com/luiselizondotech-dotcom/qa-project-Urban-Grocers-app-es) |
+| **Gaming Store API Testing** | Steam API automated tests covering game details, featured games and top sellers | `Python` `Pytest` `Steam API` | [Repo 🔗](https://github.com/luiselizondotech-dotcom/gaming-store-api-testing) |
 
 ---
 
