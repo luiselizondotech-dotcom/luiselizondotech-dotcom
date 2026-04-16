@@ -13,12 +13,12 @@
 ### 🚀 About Me
 
 - 🔭 Building a QA portfolio with **automated and manual testing projects**
-- - 🌱 Currently deepening skills in **Python, Selenium, API Testing and SQL**
--  🧪 Experienced in **functional, regression, exploratory and API testing**
--   💬 Ask me about **test case design, bug reporting or Selenium automation**
--    📫 Reach me at **luis.elizondotech@gmail.com**
--     🎓 Graduate of **TripleTen** Bootcamp — QA Engineering track
--  ⚡ Fun fact: **I believe I am an excellent musician!** 🎸
+- 🌱 Currently deepening skills in **Python, Selenium, API Testing and SQL**
+- 🧪 Experienced in **functional, regression, exploratory and API testing**
+- 💬 Ask me about **test case design, bug reporting or Selenium automation**
+- 📫 Reach me at **luis.elizondotech@gmail.com**
+- 🎓 Graduate of **TripleTen** Bootcamp
+- ⚡ Fun fact: **I believe I am an excellent musician!** 🎸
 
 ---
 
@@ -44,8 +44,8 @@
 ### 🎓 Education & Certifications
 
 - 🏫 **TripleTen** — QA Engineering Bootcamp *(2025)*
--  📋 **Software Testing** — Functional, Regression, Exploratory, API Testing
--   🐍 **Python for Test Automation** — Selenium, Pytest, Requests
+- 📋 **Software Testing** — Functional, Regression, Exploratory, API Testing
+- 🐍 **Python for Test Automation** — Selenium, Pytest, Requests
 
 ---
 
