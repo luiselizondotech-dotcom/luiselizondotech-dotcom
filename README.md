@@ -32,7 +32,7 @@
 | **Urban Routes** | Regression and UI automation for a transport booking app | Python · Selenium · Pytest | Full regression suite | [Repo 🔗](https://github.com/luiselizondotech-dotcom/qa-project-Urban-Routes-es) |
 | **Urban Grocers** | API integration testing — endpoints, JSON schemas and response codes | Postman · JavaScript | 100% endpoint coverage | [Repo 🔗](https://github.com/luiselizondotech-dotcom/qa-project-Urban-Grocers-app-es) |
 | **Gaming Store API Testing** | Steam API automated tests covering game details, featured games and top sellers | Python · Pytest · Steam API | 20+ automated API tests | [Repo 🔗](https://github.com/luiselizondotech-dotcom/gaming-store-api-testing) |
-| **Aplico — Job Tracker | Tracker gratuito de aplicaciones de empleo. Sin backend, sin registro. Tabla, Kanban, Dashboard y Calendario | HTML · CSS · Vanilla JS | PWA installable · Open Source | [Repo 🔗](https://github.com/luiselizondotech-dotcom/job-tracker) · [Demo](https://luiselizondotech-dotcom.github.io/job-tracker/) |
+| Aplico — Job Tracker | Tracker gratuito de aplicaciones de empleo. Sin backend, sin registro. Tabla, Kanban, Dashboard y Calendario | HTML · CSS · Vanilla JS | PWA installable · Open Source | [Repo 🔗](https://github.com/luiselizondotech-dotcom/job-tracker) · [Demo](https://luiselizondotech-dotcom.github.io/job-tracker/) |
 
 ---
 
